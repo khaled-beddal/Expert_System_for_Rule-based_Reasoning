@@ -1,0 +1,6 @@
+R1: IF cyclone THEN clouds
+R2: IF anticyclone THEN clear sky
+R3: IF pressure is low THEN cyclone
+R4: IF Pressure is high THEN anticyclone
+R5: IF arrow is down THEN pressure is low
+R6: IF arrow is up THEN pressure is high
